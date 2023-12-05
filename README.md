@@ -3,3 +3,5 @@ Crossplane K8s Control Plane GitOps (Self-Service) Provisioning GitHub Repositor
 
 
 ## Apply GitOps on GitHub With Argo CD And Crossplane
+
+Reference. git@github.com:vfarcic/crossplane-github.git
