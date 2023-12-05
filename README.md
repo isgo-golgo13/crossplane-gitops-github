@@ -1,2 +1,2 @@
-# crossplane-iac-gitops-github
-Crossplane K8s Control Plane GitOps Provisioning GitHub Repository 
+# Crossplane GitOps Github Self-Service
+Crossplane K8s Control Plane GitOps (Self-Service) Provisioning GitHub Repository 
